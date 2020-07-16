@@ -69,7 +69,7 @@
       "tier": 4,
       "parentTier": 6,
       "chiCost": 4.0,
-      "cooldown": 20,
+      "cooldown": 18,
       "exhaustion": 4.0,
       "burnOut": 30.0,
       "burnOutRecoverTick": 1.5,
