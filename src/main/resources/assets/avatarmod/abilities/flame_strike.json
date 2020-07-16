@@ -25,7 +25,7 @@
       "burnOut": 15.0,
       "burnOutRecoverTick": 0.75,
       "performanceAmount": 25,
-      "fireTime": 6
+      "fireTime": 6,
       "lifeTime": 10,
       "size": 2,
       "speed": 7,
@@ -68,7 +68,7 @@
     "level4_2": {
       "tier": 4,
       "chiCost": 4.0,
-      "cooldown": 20,
+      "cooldown": 18,
       "exhaustion": 4.0,
       "burnOut": 30.0,
       "burnOutRecoverTick": 1.5,
