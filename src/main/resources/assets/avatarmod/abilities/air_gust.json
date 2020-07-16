@@ -73,9 +73,9 @@
     "level4_2": {
       "tier": 3,
       "chiCost": 5.0,
-      "cooldown": 45,
+      "cooldown": 39,
       "exhaustion": 3.5,
-      "burnOut": 25.0,
+      "burnOut": 30.0,
       "burnOutRecoverTick": 0.75,
       "performanceAmount": 2,
       "lifeTime": 70,
