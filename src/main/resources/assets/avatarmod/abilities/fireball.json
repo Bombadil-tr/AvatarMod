@@ -17,7 +17,13 @@
       "chiOnHit": 0.9,
       "damage": 4,
       "explosionSize": 1,
-      "explosionDamage": 1
+      "explosionDamage": 1,
+      "fireR": 255,
+      "fireG": 95,
+      "fireB": 14,
+      "fadeR": 255,
+      "fadeG": 95,
+      "fadeB": 14
     },
     "level2": {
       "tier": 3,
@@ -35,7 +41,13 @@
       "chiOnHit": 1.1,
       "damage": 5,
       "explosionSize": 1.5,
-      "explosionDamage": 2
+      "explosionDamage": 2,
+      "fireR": 253,
+      "fireG": 80,
+      "fireB": 16,
+      "fadeR": 253,
+      "fadeG": 80,
+      "fadeB": 16
     },
     "level3": {
       "tier": 4,
@@ -53,7 +65,13 @@
       "chiOnHit": 1.25,
       "damage": 7,
       "explosionSize": 2,
-      "explosionDamage": 2
+      "explosionDamage": 2,
+      "fireR": 252,
+      "fireG": 65,
+      "fireB": 18,
+      "fadeR": 252,
+      "fadeG": 65,
+      "fadeB": 18
     },
     "level4_1": {
       "tier": 5,
@@ -71,7 +89,13 @@
       "chiOnHit": 1.875,
       "damage": 7,
       "explosionSize": 2.5,
-      "explosionDamage": 2
+      "explosionDamage": 2,
+      "fireR": 250,
+      "fireG": 50,
+      "fireB": 20,
+      "fadeR": 250,
+      "fadeG": 50,
+      "fadeB": 20
     },
     "level4_2": {
       "tier": 5,
@@ -95,7 +119,13 @@
       "maxExhaustion": 7.0,
       "explosionSize": 3,
       "explosionDamage": 3,
-      "maxDamage": 15
+      "maxDamage": 15,
+      "fireR": 250,
+      "fireG": 50,
+      "fireB": 20,
+      "fadeR": 250,
+      "fadeG": 48,
+      "fadeB": 20
     }
   }
 }
