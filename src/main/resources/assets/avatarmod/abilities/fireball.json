@@ -4,10 +4,10 @@
     "level1": {
       "tier": 3,
       "chiCost": 2.0,
-      "cooldown": 130,
+      "cooldown": 110,
       "exhaustion": 2.0,
       "burnOut": 16.0,
-      "burnOutRecoverTick": 0.12,
+      "burnOutRecoverTick": 0.14,
       "performanceAmount": 12,
       "fireTime": 1,
       "lifeTime": 20,
@@ -22,10 +22,10 @@
     "level2": {
       "tier": 3,
       "chiCost": 3.25,
-      "cooldown": 120,
+      "cooldown": 100,
       "exhaustion": 2.5,
       "burnOut": 19.0,
-      "burnOutRecoverTick": 0.15,
+      "burnOutRecoverTick": 0.18,
       "performanceAmount": 15,
       "fireTime": 3,
       "lifeTime": 25,
@@ -40,7 +40,7 @@
     "level3": {
       "tier": 4,
       "chiCost": 3.5,
-      "cooldown": 100,
+      "cooldown": 95,
       "exhaustion": 3.0,
       "burnOut": 25.0,
       "burnOutRecoverTick": 0.2,
@@ -94,7 +94,8 @@
       "maxChicost": 8.0,
       "maxExhaustion": 7.0,
       "explosionSize": 3,
-      "explosionDamage": 3
+      "explosionDamage": 3,
+      "maxDamage": 15
     }
   }
 }
