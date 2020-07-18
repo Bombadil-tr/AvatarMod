@@ -4,7 +4,7 @@
     "level1": {
       "tier": 3,
       "chiCost": 2.0,
-      "cooldown": 30,
+      "cooldown": 130,
       "exhaustion": 2.0,
       "burnOut": 16.0,
       "burnOutRecoverTick": 0.5,
@@ -15,12 +15,14 @@
       "speed": 5,
       "knockback": 0.75,
       "chiOnHit": 0.9,
-      "damage": 4
+      "damage": 4,
+      "explosionSize": 1,
+      "explosionDamage": 2
     },
     "level2": {
       "tier": 3,
       "chiCost": 3.25,
-      "cooldown": 25,
+      "cooldown": 120,
       "exhaustion": 2.5,
       "burnOut": 19.0,
       "burnOutRecoverTick": 0.75,
@@ -31,12 +33,14 @@
       "speed": 7,
       "knockback": 1,
       "chiOnHit": 1.1,
-      "damage": 5
+      "damage": 5,
+      "explosionSize": 1.5,
+      "explosionDamage": 3 
     },
     "level3": {
       "tier": 4,
       "chiCost": 3.5,
-      "cooldown": 20,
+      "cooldown": 100,
       "exhaustion": 3.0,
       "burnOut": 25.0,
       "burnOutRecoverTick": 1.0,
@@ -47,12 +51,14 @@
       "speed": 10,
       "knockback": 2,
       "chiOnHit": 1.25,
-      "damage": 7
+      "damage": 7,
+      "explosionSize": 2,
+      "explosionDamage": 6
     },
     "level4_1": {
       "tier": 5,
       "chiCost": 3.75,
-      "cooldown": 15,
+      "cooldown": 60,
       "exhaustion": 3.5,
       "burnOut": 25.0,
       "burnOutRecoverTick": 1.25,
@@ -63,12 +69,14 @@
       "speed": 11,
       "knockback": 2.5,
       "chiOnHit": 1.875,
-      "damage": 7
+      "damage": 7,
+      "explosionSize": 3,
+      "explosionDamage": 
     },
     "level4_2": {
       "tier": 5,
       "chiCost": 4.0,
-      "cooldown": 18,
+      "cooldown": 80,
       "exhaustion": 4.0,
       "burnOut": 33.0,
       "burnOutRecoverTick": 1.5,
@@ -84,7 +92,9 @@
       "maxSize": 2.0,
       "maxBurnout": 60,
       "maxChicost": 8.0,
-      "maxExhaustion": 7.0
+      "maxExhaustion": 7.0,
+      "explosionSize": 4,
+      "explosionDamage": 
     }
   }
 }
