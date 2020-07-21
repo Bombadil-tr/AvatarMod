@@ -96,7 +96,9 @@
       "fireB": 20,
       "fadeR": 250,
       "fadeG": 50,
-      "fadeB": 20
+      "fadeB": 20,
+      "trailingFire": 1,
+      "reflect": 1
     },
     "level4_2": {
       "tier": 3,
@@ -108,7 +110,7 @@
       "performanceAmount": 40,
       "fireTime": 5,
       "lifeTime": 45,
-      "size": 5.5,
+      "size": 1.0,
       "speed": 8,
       "knockback": 2,
       "chiOnHit": 1.9,
@@ -120,7 +122,9 @@
       "fireB": 20,
       "fadeR": 250,
       "fadeG": 48,
-      "fadeB": 20
+      "fadeB": 20,
+      "shockwave": 1,
+      "radius": 5.5
     }
   }
 }
