@@ -42,7 +42,13 @@
       "chiOnHit": 1.6,
       "damage": 2.5,
       "smelts": 1,
-      "setsFires": 1
+      "setsFires": 1,
+      "fireR": 253,
+      "fireG": 80,
+      "fireB": 16,
+      "fadeR": 253,
+      "fadeG": 80,
+      "fadeB": 16
     },
     "level3": {
       "tier": 2,
