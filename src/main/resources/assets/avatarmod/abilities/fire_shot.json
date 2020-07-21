@@ -24,7 +24,10 @@
       "fireB": 14,
       "fadeR": 255,
       "fadeG": 95,
-      "fadeB": 14
+      "fadeB": 14,
+      "trailingFire": 0,
+      "reflect": 0,
+      "shockwave": 0
     },
     "level2": {
       "tier": 1,
@@ -124,7 +127,9 @@
       "fadeG": 48,
       "fadeB": 20,
       "shockwave": 1,
-      "radius": 5.5
+      "radius": 5.5,
+      "trailingFire": 0,
+      "reflect": 0
     }
   }
 }
