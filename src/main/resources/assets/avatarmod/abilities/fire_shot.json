@@ -114,7 +114,13 @@
       "chiOnHit": 1.9,
       "damage": 4,
       "smelts": 1,
-      "setsFires": 1
+      "setsFires": 1,
+      "fireR": 250,
+      "fireG": 50,
+      "fireB": 20,
+      "fadeR": 250,
+      "fadeG": 48,
+      "fadeB": 20
     }
   }
 }
