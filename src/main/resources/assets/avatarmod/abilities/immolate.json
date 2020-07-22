@@ -69,12 +69,9 @@
       "healthDuration": 190,
       "speedDuration": 190,
       "fireChance": 0,
-      "fireR": 255,
-      "fireG": 95,
-      "fireB": 14,
-      "fadeR": 255,
-      "fadeG": 95,
-      "fadeB": 14
+      "fadeR": 250,
+      "fadeG": 50,
+      "fadeB": 20,
     },
     "level4_2": {
       "tier": 7,
@@ -90,12 +87,9 @@
       "speedDuration": 140,
       "projectileIncineration": true,
       "fireChance": 10,
-      "fireR": 255,
-      "fireG": 95,
-      "fireB": 14,
-      "fadeR": 255,
-      "fadeG": 95,
-      "fadeB": 14
+      "fadeR": 250,
+      "fadeG": 45,
+      "fadeB": 20,
     }
   }
 }
