@@ -9,7 +9,15 @@
       "burnOut": 10.0,
       "burnOutRecoverTick": 0.5,
       "performanceAmount": 20,
-      "duration": 20
+      "duration": 20,
+      "healthLevel": ,
+      "speedLevel": ,
+      "powerrating": ,
+      "healthDuration": ,
+      "speedDuration": ,
+      "projectileIncineration": ,
+      "fireChance": ,
+      
     },
     "level2": {
       "tier": 5,
