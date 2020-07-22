@@ -3,7 +3,7 @@
     "xpOnUse": 2,
     "level1": {
       "tier": 5,
-      "chiCost": 3.0,
+      "chiCost": 4.0,
       "cooldown": 200,
       "exhaustion": 4.0,
       "burnOut": 35.0,
@@ -27,7 +27,7 @@
     },
     "level2": {
       "tier": 5,
-      "chiCost": 3.25,
+      "chiCost": 4.5,
       "cooldown": 210,
       "exhaustion": 4.5,
       "burnOut": 40.0,
@@ -45,7 +45,7 @@
     },
     "level3": {
       "tier": 6,
-      "chiCost": 3.5,
+      "chiCost": 5.0,
       "cooldown": 215,
       "exhaustion": 5.0,
       "burnOut": 45.0,
@@ -63,7 +63,7 @@
     },
     "level4_1": {
       "tier": 7,
-      "chiCost": 3.75,
+      "chiCost": 5.5,
       "cooldown": 220,
       "exhaustion": 5.5,
       "burnOut": 55.0,
@@ -83,7 +83,7 @@
     },
     "level4_2": {
       "tier": 7,
-      "chiCost": 4.0,
+      "chiCost": 6.0,
       "cooldown": 200,
       "exhaustion": 6.0,
       "burnOut": 50.0,
