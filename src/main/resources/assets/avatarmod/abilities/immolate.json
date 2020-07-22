@@ -33,12 +33,9 @@
       "powerrating": 2,
       "speedDuration": 100,
       "fireChance": 50,
-      "fireR": 255,
-      "fireG": 95,
-      "fireB": 14,
-      "fadeR": 255,
-      "fadeG": 95,
-      "fadeB": 14
+      "fadeR": 253,
+      "fadeG": 80,
+      "fadeB": 16
     },
     "level3": {
       "tier": 6,
