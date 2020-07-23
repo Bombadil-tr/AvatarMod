@@ -17,7 +17,8 @@
       "damage": 3.5,
       "boomerAang": false,
       "numberOfBlades": 1,
-      "destroyGrass": false
+      "destroyGrass": false,
+      "angle": 0
     },
     "level2": {
       "tier": 2,
