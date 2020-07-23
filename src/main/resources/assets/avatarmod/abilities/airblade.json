@@ -16,7 +16,7 @@
       "chiOnHit": 1.4,
       "damage": 3.5,
       "boomerAang": false,
-      "numberOfBlades": 1
+      "numberOfBlades": 1,
       "destroyGrass": false
     },
     "level2": {
@@ -59,7 +59,7 @@
       "exhaustion": 3.5,
       "burnOut": 32.0,
       "burnOutRecoverTick": 0.35,
-      "performanceAmount": 30,
+      "performanceAmount": 10,
       "lifeTime": 45,
       "size": 1.25,
       "speed": 13,
@@ -76,7 +76,7 @@
       "exhaustion": 4.0,
       "burnOut": 30.0,
       "burnOutRecoverTick": 0.37,
-      "performanceAmount": 35,
+      "performanceAmount": 15,
       "lifeTime": 50,
       "size": 1.4,
       "speed": 12,
