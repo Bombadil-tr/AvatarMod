@@ -65,8 +65,9 @@
       "speed": 13,
       "knockback": 2,
       "chiOnHit": 1.8,
-      "damage": 4,
-      "numberOfBlades": 5
+      "damage": 3.5,
+      "numberOfBlades": 5,
+      "angle": 38
     },
     "level4_2": {
       "tier": 4,
