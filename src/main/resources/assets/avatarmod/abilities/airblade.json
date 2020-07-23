@@ -57,7 +57,7 @@
       "chiCost": 3.75,
       "cooldown": 90,
       "exhaustion": 3.5,
-      "burnOut": 32.0,
+      "burnOut": 60.0,
       "burnOutRecoverTick": 0.35,
       "performanceAmount": 10,
       "lifeTime": 45,
