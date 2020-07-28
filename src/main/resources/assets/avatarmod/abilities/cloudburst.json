@@ -14,7 +14,9 @@
       "speed": 5,
       "knockback": 2,
       "chiOnHit": 1.5,
-      "damage": 4
+      "damage": 4,
+      "chiSmash": false
+      "absorb": false
     },
     "level2": {
       "tier": 3,
@@ -59,7 +61,8 @@
       "speed": 11,
       "knockback": 5,
       "chiOnHit": 1.875,
-      "damage": 7
+      "damage": 7,
+      "chiSmash": true
     },
     "level4_2": {
       "tier": 5,
@@ -75,6 +78,8 @@
       "knockback": 6,
       "chiOnHit": 2.0,
       "damage": 8
+      "chiSmash": false
+      "absorb": true
     }
   }
 }
