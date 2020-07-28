@@ -51,11 +51,11 @@
     "level4_1": {
       "tier": 5,
       "chiCost": 3.75,
-      "cooldown": 15,
+      "cooldown": 85,
       "exhaustion": 3.5,
       "burnOut": 25.0,
-      "burnOutRecoverTick": 1.25,
-      "performanceAmount": 35,
+      "burnOutRecoverTick": 0.3,
+      "performanceAmount": 25,
       "lifeTime": 35,
       "size": 1.25,
       "speed": 11,
@@ -67,17 +67,17 @@
     "level4_2": {
       "tier": 5,
       "chiCost": 4.0,
-      "cooldown": 18,
+      "cooldown": 80,
       "exhaustion": 4.0,
       "burnOut": 30.0,
-      "burnOutRecoverTick": 1.5,
-      "performanceAmount": 40,
+      "burnOutRecoverTick": 0.3,
+      "performanceAmount": 30,
       "lifeTime": 40,
       "size": 1.5,
       "speed": 13,
       "knockback": 6,
       "chiOnHit": 2.0,
-      "damage": 8
+      "damage": 8,
       "chiSmash": false,
       "absorb": true
     }
