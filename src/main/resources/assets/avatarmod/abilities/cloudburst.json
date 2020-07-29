@@ -4,7 +4,7 @@
     "level1": {
       "tier": 3,
       "chiCost": 3.0,
-      "cooldown": 110,
+      "cooldown": 60,
       "exhaustion": 2.0,
       "burnOut": 16.0,
       "burnOutRecoverTick": 0.14,
@@ -21,7 +21,7 @@
     "level2": {
       "tier": 3,
       "chiCost": 3.25,
-      "cooldown": 100,
+      "cooldown": 50,
       "exhaustion": 2.5,
       "burnOut": 19.0,
       "burnOutRecoverTick": 0.18,
@@ -36,7 +36,7 @@
     "level3": {
       "tier": 4,
       "chiCost": 3.5,
-      "cooldown": 95,
+      "cooldown": 40,
       "exhaustion": 3.0,
       "burnOut": 25.0,
       "burnOutRecoverTick": 0.2,
@@ -51,7 +51,7 @@
     "level4_1": {
       "tier": 5,
       "chiCost": 3.75,
-      "cooldown": 85,
+      "cooldown": 35,
       "exhaustion": 3.5,
       "burnOut": 25.0,
       "burnOutRecoverTick": 0.3,
@@ -67,7 +67,7 @@
     "level4_2": {
       "tier": 5,
       "chiCost": 4.0,
-      "cooldown": 80,
+      "cooldown": 30,
       "exhaustion": 4.0,
       "burnOut": 30.0,
       "burnOutRecoverTick": 0.3,
