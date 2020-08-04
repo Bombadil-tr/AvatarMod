@@ -3,13 +3,13 @@
     "xpOnUse": 2,
     "level1": {
       "tier": 5,
-      "chiCost": 3.0,
-      "cooldown": 0,
+      "chiCost": 4.0,
+      "cooldown": 200,
       "exhaustion": 2.0,
-      "burnOut": 10.0,
-      "burnOutRecoverTick": 0.5,
+      "burnOut": 35.0,
+      "burnOutRecoverTick": 0.17,
       "performanceAmount": 20,
-      "duration": 20,
+      "duration": 100,
       "invisibleLevel": 0,
       "invisibleDuration": 0,
       "jumpLevel": 0,
@@ -18,11 +18,11 @@
       "speedDuration": 140,
       "strengthLevel": 4,
       "strengthDuration": 112,
-      "powerrating": 95
+      "powerrating": 30
     },
     "level2": {
       "tier": 5,
-      "chiCost": 3.25,
+      "chiCost": 4.25,
       "cooldown": 5,
       "exhaustion": 2.5,
       "burnOut": 15.0,
@@ -32,7 +32,7 @@
     },
     "level3": {
       "tier": 6,
-      "chiCost": 3.5,
+      "chiCost": 4.5,
       "cooldown": 10,
       "exhaustion": 3.0,
       "burnOut": 20.0,
@@ -52,7 +52,7 @@
     },
     "level4_2": {
       "tier": 7,
-      "chiCost": 4.0,
+      "chiCost": 5.0,
       "cooldown": 18,
       "exhaustion": 4.0,
       "burnOut": 30.0,
