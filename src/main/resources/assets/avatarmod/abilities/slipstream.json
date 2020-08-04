@@ -81,8 +81,6 @@
       "duration": 200,
       "powerrating": 70,
       "invisibleChance": 60,
-      "jumpLevel": 3,
-      "jumpDuration": 190,
       "speedLevel": 4,  
       "speedDuration": 190,
       "strengthLevel": 0,
