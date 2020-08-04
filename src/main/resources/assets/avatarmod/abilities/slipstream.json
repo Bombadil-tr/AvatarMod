@@ -9,7 +9,16 @@
       "burnOut": 10.0,
       "burnOutRecoverTick": 0.5,
       "performanceAmount": 20,
-      "duration": 20
+      "duration": 20,
+      "invisibleLevel": 0,
+      "invisibleDuration": 0,
+      "jumpLevel": 0,
+      "jumpDuration": 0,
+      "speedLevel": 3,  
+      "speedDuration": 140,
+      "strengthLevel": 4,
+      "strengthDuration": 112,
+      "powerrating": 95
     },
     "level2": {
       "tier": 5,
