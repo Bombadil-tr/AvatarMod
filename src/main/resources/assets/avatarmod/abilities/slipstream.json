@@ -10,14 +10,15 @@
       "burnOutRecoverTick": 0.13,
       "performanceAmount": 20,
       "duration": 100,
-      "powerrating": 30
+      "powerrating": 30,
       "invisibleChance": 0,
       "jumpLevel": 0,
       "jumpDuration": 0,
       "speedLevel": 1,  
       "speedDuration": 90,
       "strengthLevel": 0,
-      "strengthDuration": 0
+      "strengthDuration": 0,
+      "walkOnAir": false
     },
     "level2": {
       "tier": 5,
@@ -86,6 +87,7 @@
       "speedDuration": 190,
       "strengthLevel": 0,
       "strengthDuration": 0,
+      "walkOnAir": true
     }
   }
 }
