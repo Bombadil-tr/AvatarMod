@@ -15,7 +15,18 @@
       "knockback": 2,
       "chiOnHit": 1.5,
       "damage": 4,
-      "chargeTime": 40
+      "chargeTime": 40,
+      "effectRadius": 3,
+      "effectDamage": 4,
+      "blastLevel": 4,
+      "pullsEnemies": false,
+      "potionEffects": false,
+      "weaknessLevel": 0,
+      "weaknessDuration": 0,
+      "slownessLevel": 0,
+      "slownessDuration": 0,
+      "blindnessLevel": 0,
+      "blindnessDuration": 0
     },
     "level2": {
       "tier": 4,
@@ -31,7 +42,10 @@
       "knockback": 3,
       "chiOnHit": 1.625,
       "damage": 5,
-      "chargeTime": 35
+      "chargeTime": 35,
+      "effectRadius": 3,
+      "effectDamage": 4,
+      "blastLevel": 4
     },
     "level3": {
       "tier": 5,
@@ -47,7 +61,10 @@
       "knockback": 4,
       "chiOnHit": 1.75,
       "damage": 6,
-      "chargeTime": 30
+      "chargeTime": 30,
+      "effectRadius": 3,
+      "effectDamage": 4,
+      "blastLevel": 4
     },
     "level4_1": {
       "tier": 6,
@@ -63,7 +80,17 @@
       "knockback": 5,
       "chiOnHit": 1.875,
       "damage": 7,
-      "chargeTime": 25
+      "chargeTime": 25,
+      "effectRadius": 3,
+      "effectDamage": 4,
+      "blastLevel": 4,
+      "potionEffects": true,
+      "weaknessLevel": 2,
+      "weaknessDuration": 20,
+      "slownessLevel": 3,
+      "slownessDuration": 5,
+      "blindnessLevel": 2,
+      "blindnessDuration": 10
     },
     "level4_2": {
       "tier": 6,
@@ -79,7 +106,18 @@
       "knockback": 6,
       "chiOnHit": 2.0,
       "damage": 8,
-      "chargeTime": 20
+      "chargeTime": 20,
+      "effectRadius": 3,
+      "effectDamage": 4,
+      "blastLevel": 4,
+      "pullsEnemies": true,
+      "potionEffects": false,
+      "weaknessLevel": 0,
+      "weaknessDuration": 0,
+      "slownessLevel": 0,
+      "slownessDuration": 0,
+      "blindnessLevel": 0,
+      "blindnessDuration": 0
     }
   }
 }
