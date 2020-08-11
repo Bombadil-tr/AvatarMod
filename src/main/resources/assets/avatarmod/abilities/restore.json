@@ -3,13 +3,13 @@
     "xpOnUse": 2,
     "level1": {
       "tier": 5,
-      "chiCost": 3.0,
-      "cooldown": 0,
+      "chiCost": 4.0,
+      "cooldown": 200,
       "exhaustion": 2.0,
-      "burnOut": 10.0,
-      "burnOutRecoverTick": 0.5,
+      "burnOut": 35.0,
+      "burnOutRecoverTick": 0.13,
       "performanceAmount": 20,
-      "duration": 20,
+      "duration": 100,
       "chiBoost": ,
       "chiRegenBoost": ,
       "resistanceLevel": ,
@@ -22,7 +22,7 @@
       "saturationDuration": 0,
       "strengthLevel": 0,
       "strengthDuration": 0,
-      "powerrating": 
+      "powerrating": 30
     },
     "level2": {
       "tier": 5,
