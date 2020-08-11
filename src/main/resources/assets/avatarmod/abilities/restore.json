@@ -84,6 +84,15 @@
       "strengthLevel": 0,
       "strengthDuration": 0,
       "powerrating": 
+      
+      "chiCost": 5.75,
+      "cooldown": 220,
+      "exhaustion": 6.0,
+      "burnOut": 55.0,
+      "burnOutRecoverTick": 0.18,
+      "performanceAmount": 40,
+      "duration": 150,
+      "powerrating": 95,
     },
     "level4_2": {
       "tier": 7,
