@@ -66,13 +66,13 @@
     },
     "level4_1": {
       "tier": 7,
-      "chiCost": 3.75,
-      "cooldown": 15,
-      "exhaustion": 3.5,
-      "burnOut": 25.0,
-      "burnOutRecoverTick": 1.25,
-      "performanceAmount": 35,
-      "duration": 35,
+      "chiCost": 5.25,
+      "cooldown": 220,
+      "exhaustion": 6.0,
+      "burnOut": 55.0,
+      "burnOutRecoverTick": 0.18,
+      "performanceAmount": 40,
+      "duration": 150,
       "chiBoost": ,
       "chiRegenBoost": ,
       "resistanceLevel": ,
@@ -83,26 +83,17 @@
       "regenDuration": 0,
       "strengthLevel": 0,
       "strengthDuration": 0,
-      "powerrating": 
-      
-      "chiCost": 5.75,
-      "cooldown": 220,
-      "exhaustion": 6.0,
-      "burnOut": 55.0,
-      "burnOutRecoverTick": 0.18,
-      "performanceAmount": 40,
-      "duration": 150,
-      "powerrating": 95,
+      "powerrating": 95
     },
     "level4_2": {
       "tier": 7,
-      "chiCost": 4.0,
-      "cooldown": 18,
-      "exhaustion": 4.0,
-      "burnOut": 30.0,
-      "burnOutRecoverTick": 1.5,
-      "performanceAmount": 40,
-      "duration": 40,
+      "chiCost": 5.75,
+      "cooldown": 250,
+      "exhaustion": 5.5,
+      "burnOut": 50.0,
+      "burnOutRecoverTick": 0.15,
+      "performanceAmount": 35,
+      "duration": 200,
       "chiBoost": ,
       "chiRegenBoost": ,
       "resistanceLevel": ,
@@ -115,16 +106,7 @@
       "saturationDuration": 0,
       "strengthLevel": 0,
       "strengthDuration": 0,
-      "powerrating": 
-      
-      "chiCost": 5.0,
-      "cooldown": 250,
-      "exhaustion": 5.5,
-      "burnOut": 50.0,
-      "burnOutRecoverTick": 0.15,
-      "performanceAmount": 35,
-      "duration": 200,
-      "powerrating": 70,
+      "powerrating": 70
     }
   }
 }
