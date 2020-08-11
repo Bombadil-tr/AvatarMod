@@ -16,12 +16,12 @@
       "resistanceDuration": ,
       "slownessLevel": ,
       "slownessDuration": ,
-      "regenLevel": ,
-      "regenDuration": ,
-      "saturationLevel": ,
-      "saturationDuration": ,
-      "strengthLevel": ,
-      "strengthDuration": ,
+      "regenLevel": 0,
+      "regenDuration": 0,
+      "saturationLevel": 0,
+      "saturationDuration": 0,
+      "strengthLevel": 0,
+      "strengthDuration": 0,
       "powerrating": 
     },
     "level2": {
@@ -32,7 +32,16 @@
       "burnOut": 15.0,
       "burnOutRecoverTick": 0.75,
       "performanceAmount": 25,
-      "duration": 25
+      "duration": 25,
+      "chiBoost": ,
+      "chiRegenBoost": ,
+      "resistanceLevel": ,
+      "resistanceDuration": ,
+      "slownessLevel": ,
+      "slownessDuration": ,
+      "regenLevel": 0,
+      "regenDuration": 0,
+      "powerrating": 
     },
     "level3": {
       "tier": 6,
@@ -42,7 +51,18 @@
       "burnOut": 20.0,
       "burnOutRecoverTick": 1.0,
       "performanceAmount": 30,
-      "duration": 30
+      "duration": 30,
+      "chiBoost": ,
+      "chiRegenBoost": ,
+      "resistanceLevel": ,
+      "resistanceDuration": ,
+      "slownessLevel": ,
+      "slownessDuration": ,
+      "regenLevel": 0,
+      "regenDuration": 0,
+      "strengthLevel": 0,
+      "strengthDuration": 0,
+      "powerrating": 
     },
     "level4_1": {
       "tier": 7,
@@ -52,7 +72,18 @@
       "burnOut": 25.0,
       "burnOutRecoverTick": 1.25,
       "performanceAmount": 35,
-      "duration": 35
+      "duration": 35,
+      "chiBoost": ,
+      "chiRegenBoost": ,
+      "resistanceLevel": ,
+      "resistanceDuration": ,
+      "slownessLevel": ,
+      "slownessDuration": ,
+      "regenLevel": 0,
+      "regenDuration": 0,
+      "strengthLevel": 0,
+      "strengthDuration": 0,
+      "powerrating": 
     },
     "level4_2": {
       "tier": 7,
@@ -62,7 +93,20 @@
       "burnOut": 30.0,
       "burnOutRecoverTick": 1.5,
       "performanceAmount": 40,
-      "duration": 40
+      "duration": 40,
+      "chiBoost": ,
+      "chiRegenBoost": ,
+      "resistanceLevel": ,
+      "resistanceDuration": ,
+      "slownessLevel": ,
+      "slownessDuration": ,
+      "regenLevel": 0,
+      "regenDuration": 0,
+      "saturationLevel": 0,
+      "saturationDuration": 0,
+      "strengthLevel": 0,
+      "strengthDuration": 0,
+      "powerrating": 
     }
   }
 }
