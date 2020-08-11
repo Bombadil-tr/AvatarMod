@@ -9,7 +9,20 @@
       "burnOut": 10.0,
       "burnOutRecoverTick": 0.5,
       "performanceAmount": 20,
-      "duration": 20
+      "duration": 20,
+      "chiBoost": ,
+      "chiRegenBoost": ,
+      "resistanceLevel": ,
+      "resistanceDuration": ,
+      "slownessLevel": ,
+      "slownessDuration": ,
+      "regenLevel": ,
+      "regenDuration": ,
+      "saturationLevel": ,
+      "saturationDuration": ,
+      "strengthLevel": ,
+      "strengthDuration": ,
+      "powerrating": 
     },
     "level2": {
       "tier": 5,
