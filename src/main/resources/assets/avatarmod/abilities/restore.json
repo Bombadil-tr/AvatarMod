@@ -45,13 +45,13 @@
     },
     "level3": {
       "tier": 6,
-      "chiCost": 3.5,
-      "cooldown": 10,
-      "exhaustion": 3.0,
-      "burnOut": 20.0,
-      "burnOutRecoverTick": 1.0,
+      "chiCost": 4.5,
+      "cooldown": 240,
+      "exhaustion": 5.0,
+      "burnOut": 45.0,
+      "burnOutRecoverTick": 0.14,
       "performanceAmount": 30,
-      "duration": 30,
+      "duration": 140,
       "chiBoost": ,
       "chiRegenBoost": ,
       "resistanceLevel": ,
@@ -62,7 +62,7 @@
       "regenDuration": 0,
       "strengthLevel": 0,
       "strengthDuration": 0,
-      "powerrating": 
+      "powerrating": 60
     },
     "level4_1": {
       "tier": 7,
