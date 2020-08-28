@@ -14,7 +14,9 @@
       "speed": 5,
       "knockback": 2,
       "chiOnHit": 1.5,
-      "damage": 4
+      "damage": 4,
+      "destruction": false,
+      "dropEquipment": false
     },
     "level2": {
       "tier": 2,
@@ -59,7 +61,8 @@
       "speed": 11,
       "knockback": 5,
       "chiOnHit": 1.875,
-      "damage": 7
+      "damage": 7,
+      "destruction": true
     },
     "level4_2": {
       "tier": 4,
@@ -74,7 +77,9 @@
       "speed": 13,
       "knockback": 6,
       "chiOnHit": 2.0,
-      "damage": 8
+      "damage": 8,
+      "destruction": false,
+      "dropEquipment": true
     }
   }
 }
