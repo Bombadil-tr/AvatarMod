@@ -16,7 +16,9 @@
       "powerBoost": 0,
       "powerDuration": 0,
       "absorbTier": 0,
-      "absorbFires": false
+      "damage": 4,
+      "speed": 3,
+      "knockback": 1
     },
     "level2": {
       "tier": 3,
@@ -29,7 +31,10 @@
       "destroyTier": 2,
       "aimAssist": 0.75,
       "range": 2.5,
-      "radius": 1
+      "radius": 1,
+      "damage": 4.5,
+      "speed": 4,
+      "knockback": 2
     },
     "level3": {
       "tier": 4,
@@ -42,7 +47,10 @@
       "destroyTier": 3,
       "aimAssist": 1,
       "range": 3,
-      "radius": 2
+      "radius": 2,
+      "damage": 5,
+      "speed": 5,
+      "knockback": 2
     },
     "level4_1": {
       "tier": 5,
@@ -54,12 +62,14 @@
       "redirectTier": 6,
       "destroyTier": 4,
       "aimAssist": 1.5,
-      "range": 4,
+      "range": 6,
       "radius": 3,
       "powerBoost": 5,
       "powerDuration": 200,
       "absorbTier": 3,
-      "absorbFires": true
+      "damage": 6,
+      "speed": 6,
+      "knockback": 2
     },
     "level4_2": {
       "tier": 5,
@@ -71,11 +81,13 @@
       "redirectTier": 5,
       "destroyTier": 6,
       "aimAssist": 0.5,
-      "range": 7,
+      "range": 5,
       "radius": 1.5,
       "powerBoost": 0,
       "powerDuration": 0,
-      "absorbFires": false
+      "damage": 7,
+      "speed": 7,
+      "knockback": 3
     }
   }
 }
