@@ -13,8 +13,8 @@
       "aimAssist": 0.5,
       "range": 2,
       "radius": 0.5,
-      "powerBoost": 0,
-      "powerDuration": 0,
+      "powerBoost": 4,
+      "powerDuration": 50,
       "absorbTier": 0,
       "damage": 4,
       "speed": 3,
@@ -34,7 +34,9 @@
       "radius": 1,
       "damage": 4.5,
       "speed": 4,
-      "knockback": 2
+      "knockback": 2,
+      "powerBoost": 5,
+      "powerDuration": 60
     },
     "level3": {
       "tier": 4,
@@ -50,7 +52,9 @@
       "radius": 2,
       "damage": 5,
       "speed": 5,
-      "knockback": 2
+      "knockback": 2,
+      "powerBoost": 6,
+      "powerDuration": 80
     },
     "level4_1": {
       "tier": 5,
@@ -64,8 +68,8 @@
       "aimAssist": 1.5,
       "range": 6,
       "radius": 3,
-      "powerBoost": 5,
-      "powerDuration": 200,
+      "powerBoost": 7,
+      "powerDuration": 120,
       "absorbTier": 3,
       "damage": 6,
       "speed": 6,
@@ -83,8 +87,8 @@
       "aimAssist": 0.5,
       "range": 5,
       "radius": 1.5,
-      "powerBoost": 0,
-      "powerDuration": 0,
+      "powerBoost": 9,
+      "powerDuration": 100,
       "damage": 7,
       "speed": 7,
       "knockback": 3
