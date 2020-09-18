@@ -17,8 +17,8 @@
       "damage": 5,
       "range": 5,
       "chargeTime": 40,
-      "maxDamage" 8,
-      "maxSize" 0.75,
+      "maxDamage": 8,
+      "maxSize": 0.75,
       "spreadcircular": false,
       "radius": 3,
       "travel": false
@@ -39,8 +39,8 @@
       "damage": 6,
       "range": 8,
       "chargeTime": 50,
-      "maxDamage" 10,
-      "maxSize" 1.0,
+      "maxDamage": 10,
+      "maxSize": 1.0,
       "radius": 3.5
     },
     "level3": {
@@ -59,8 +59,8 @@
       "damage": 7,
       "range": 10,
       "chargeTime": 55,
-      "maxDamage" 12,
-      "maxSize" 1.25,
+      "maxDamage": 12,
+      "maxSize": 1.25,
       "radius": 4
     },
     "level4_1": {
@@ -79,8 +79,8 @@
       "damage": 6,
       "range": 12,
       "chargeTime": 65,
-      "maxDamage" 10,
-      "maxSize" 1.5,
+      "maxDamage": 10,
+      "maxSize": 1.5,
       "spreadcircular": true,
       "radius": 5
     },
@@ -100,8 +100,8 @@
       "damage": 8,
       "range": 15,
       "chargeTime": 60,
-      "maxDamage" 18,
-      "maxSize" 2.0,
+      "maxDamage": 18,
+      "maxSize": 2.0,
       "spreadcircular": false,
       "radius": 4.5,
       "travel": true
