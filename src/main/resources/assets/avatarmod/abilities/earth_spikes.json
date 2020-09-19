@@ -14,14 +14,15 @@
       "speed": 5,
       "knockback": 1,
       "chiOnHit": 1.5,
-      "damage": 5,
+      "damage": 3,
       "range": 5,
       "chargeTime": 40,
-      "maxDamage": 8,
+      "maxDamage": 6,
       "maxSize": 0.75,
       "spreadcircular": false,
       "radius": 3,
-      "travel": false
+      "travel": false,
+      "traceSpikes": false
     },
     "level2": {
       "tier": 3,
@@ -39,7 +40,7 @@
       "damage": 6,
       "range": 8,
       "chargeTime": 50,
-      "maxDamage": 10,
+      "maxDamage": 8,
       "maxSize": 1.0,
       "radius": 3.5
     },
@@ -61,7 +62,8 @@
       "chargeTime": 55,
       "maxDamage": 12,
       "maxSize": 1.25,
-      "radius": 4
+      "radius": 4,
+      "traceSpikes": true
     },
     "level4_1": {
       "tier": 5,
@@ -82,7 +84,8 @@
       "maxDamage": 10,
       "maxSize": 1.5,
       "spreadcircular": true,
-      "radius": 5
+      "radius": 5,
+      "traceSpikes": false
     },
     "level4_2": {
       "tier": 5,
@@ -104,7 +107,8 @@
       "maxSize": 2.0,
       "spreadcircular": false,
       "radius": 4.5,
-      "travel": true
+      "travel": true,
+      "traceSpikes": true
     }
   }
 }
