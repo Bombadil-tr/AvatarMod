@@ -21,7 +21,6 @@
       "maxSize": 0.75,
       "spreadCircular": false,
       "radius": 3,
-      "travel": false,
       "traceSpikes": false
     },
     "level2": {
@@ -107,7 +106,6 @@
       "maxSize": 2.0,
       "spreadCircular": false,
       "radius": 4.5,
-      "travel": true,
       "traceSpikes": true
     }
   }
