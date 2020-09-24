@@ -14,7 +14,15 @@
       "speed": 5,
       "knockback": 2,
       "chiOnHit": 1.5,
-      "damage": 4
+      "damage": 4,
+      "range": ,
+      "push": ,
+      "pull": ,
+      "mouseControl": ,
+      "chargeTime": ,
+      "chargeSpeed": ,
+      "chargeSize": ,
+      "chargeDamage": 
     },
     "level2": {
       "tier": 2,
