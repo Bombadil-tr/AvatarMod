@@ -16,13 +16,13 @@
       "chiOnHit": 1.5,
       "damage": 4,
       "range": ,
-      "push": ,
-      "pull": ,
-      "mouseControl": ,
-      "chargeTime": ,
-      "chargeSpeed": ,
-      "chargeSize": ,
-      "chargeDamage": 
+      "push": true,
+      "pull": false,
+      "mouseControl": false,
+      "chargeTime": 0,
+      "chargeSpeed": 0,
+      "chargeSize": 0,
+      "chargeDamage": 0
     },
     "level2": {
       "tier": 2,
@@ -37,7 +37,8 @@
       "speed": 7,
       "knockback": 3,
       "chiOnHit": 1.625,
-      "damage": 5
+      "damage": 5,
+      "range": 
     },
     "level3": {
       "tier": 3,
@@ -52,7 +53,10 @@
       "speed": 9,
       "knockback": 4,
       "chiOnHit": 1.75,
-      "damage": 6
+      "damage": 6,
+      "range": ,
+      "push": true,
+      "pull": true
     },
     "level4_1": {
       "tier": 4,
