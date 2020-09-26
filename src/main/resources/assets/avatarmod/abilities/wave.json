@@ -20,9 +20,9 @@
       "pull": false,
       "mouseControl": false,
       "chargeTime": 0,
-      "chargeSpeed": 0,
-      "chargeSize": 0,
-      "chargeDamage": 0
+      "maxSpeed": 0,
+      "maxSize": 0,
+      "maxDamage": 0
     },
     "level2": {
       "tier": 2,
@@ -73,9 +73,9 @@
       "damage": 5,
       "range": 3,
       "chargeTime": 75,
-      "chargeSpeed": 20,
-      "chargeSize": 3,
-      "chargeDamage": 14
+      "maxSpeed": 20,
+      "maxSize": 3,
+      "maxDamage": 10
     },
     "level4_2": {
       "tier": 4,
@@ -94,9 +94,9 @@
       "range": 5,
       "mouseControl": true,
       "chargeTime": 0,
-      "chargeSpeed": 0,
-      "chargeSize": 0,
-      "chargeDamage": 0
+      "maxSpeed": 0,
+      "maxSize": 0,
+      "maxDamage": 0
     }
   }
 }
