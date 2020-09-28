@@ -15,7 +15,20 @@
       "knockback": 2,
       "chiOnHit": 1.5,
       "damage": 4,
-      "chargeTime": 40
+      "chargeTime": 40,
+      "maxDamage": ,
+      "maxBurnout": ,
+      "maxChicost": ,
+      "maxChiOnHit": ,
+      "maxCooldown": ,
+      "maxExhaustion": ,
+      "maxSpeed": ,
+      "maxSize": ,
+      "radius" ,
+      "range" ,
+      "sourceRange" ,
+      "shockwave": false,
+      "burst": false
     },
     "level2": {
       "tier": 3,
