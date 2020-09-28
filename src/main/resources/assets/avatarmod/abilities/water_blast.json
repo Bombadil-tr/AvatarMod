@@ -24,11 +24,13 @@
       "maxExhaustion": ,
       "maxSpeed": ,
       "maxSize": ,
-      "radius" ,
-      "range" ,
-      "sourceRange" ,
+      "radius": ,
+      "range": ,
+      "sourceRange": ,
       "shockwave": false,
-      "burst": false
+      "burst": true,
+      "waterShield": false,
+      "waterAbsorb": false
     },
     "level2": {
       "tier": 3,
@@ -44,7 +46,18 @@
       "knockback": 3,
       "chiOnHit": 1.625,
       "damage": 5,
-      "chargeTime": 35
+      "chargeTime": 35,
+      "maxDamage": ,
+      "maxBurnout": ,
+      "maxChicost": ,
+      "maxChiOnHit": ,
+      "maxCooldown": ,
+      "maxExhaustion": ,
+      "maxSpeed": ,
+      "maxSize": ,
+      "radius": ,
+      "range": ,
+      "sourceRange": 
     },
     "level3": {
       "tier": 4,
@@ -60,7 +73,19 @@
       "knockback": 4,
       "chiOnHit": 1.75,
       "damage": 6,
-      "chargeTime": 30
+      "chargeTime": 30,
+      "maxDamage": ,
+      "maxBurnout": ,
+      "maxChicost": ,
+      "maxChiOnHit": ,
+      "maxCooldown": ,
+      "maxExhaustion": ,
+      "maxSpeed": ,
+      "maxSize": ,
+      "radius": ,
+      "range": ,
+      "sourceRange": ,
+      "shockwave": true
     },
     "level4_1": {
       "tier": 5,
@@ -76,7 +101,19 @@
       "knockback": 5,
       "chiOnHit": 1.875,
       "damage": 7,
-      "chargeTime": 25
+      "chargeTime": 25,
+      "maxDamage": ,
+      "maxBurnout": ,
+      "maxChicost": ,
+      "maxChiOnHit": ,
+      "maxCooldown": ,
+      "maxExhaustion": ,
+      "maxSpeed": ,
+      "maxSize": ,
+      "radius": ,
+      "range": ,
+      "sourceRange": ,
+      "waterShield": true
     },
     "level4_2": {
       "tier": 5,
@@ -92,7 +129,20 @@
       "knockback": 6,
       "chiOnHit": 2.0,
       "damage": 8,
-      "chargeTime": 20
+      "chargeTime": 20,
+      "maxDamage": ,
+      "maxBurnout": ,
+      "maxChicost": ,
+      "maxChiOnHit": ,
+      "maxCooldown": ,
+      "maxExhaustion": ,
+      "maxSpeed": ,
+      "maxSize": ,
+      "radius": ,
+      "range": ,
+      "sourceRange": ,
+      "waterShield": false,
+      "waterAbsorb": true
     }
   }
 }
