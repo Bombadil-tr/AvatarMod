@@ -30,7 +30,8 @@
       "shockwave": false,
       "burst": true,
       "waterShield": false,
-      "waterAbsorb": false
+      "waterAbsorb": false,
+      "shieldHealth": 0
     },
     "level2": {
       "tier": 3,
@@ -113,7 +114,8 @@
       "radius": 5,
       "range": 12,
       "sourceRange": 6,
-      "waterShield": true
+      "waterShield": true,
+      "shieldHealth": 8
     },
     "level4_2": {
       "tier": 5,
@@ -142,7 +144,8 @@
       "range": 9,
       "sourceRange": 7,
       "waterShield": false,
-      "waterAbsorb": true
+      "waterAbsorb": true,
+      "shieldHealth": 0
     }
   }
 }
