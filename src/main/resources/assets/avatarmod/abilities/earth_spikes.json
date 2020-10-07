@@ -21,7 +21,8 @@
       "maxSize": 0.75,
       "spreadCircular": false,
       "radius": 3,
-      "traceSpikes": false
+      "traceSpikes": false,
+      "frequency": 4
     },
     "level2": {
       "tier": 3,
@@ -41,7 +42,8 @@
       "chargeTime": 50,
       "maxDamage": 8,
       "maxSize": 1.0,
-      "radius": 3.5
+      "radius": 3.5,
+      "frequency": 4
     },
     "level3": {
       "tier": 4,
@@ -62,7 +64,8 @@
       "maxDamage": 10,
       "maxSize": 1.25,
       "radius": 4,
-      "traceSpikes": true
+      "traceSpikes": true,
+      "frequency": 3
     },
     "level4_1": {
       "tier": 5,
@@ -84,7 +87,8 @@
       "maxSize": 1.5,
       "spreadCircular": true,
       "radius": 5,
-      "traceSpikes": false
+      "traceSpikes": false,
+      "frequency": 4
     },
     "level4_2": {
       "tier": 5,
@@ -106,7 +110,8 @@
       "maxSize": 2.0,
       "spreadCircular": false,
       "radius": 4.5,
-      "traceSpikes": true
+      "traceSpikes": true,
+      "frequency": 2
     }
   }
 }
