@@ -1,0 +1,21 @@
+
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  ",
+    " c",
+    " b "
+  ],
+  "key": {
+    "c": {
+      "item": "minecraft:cactus"
+    },
+    "b": {
+      "item": "minecraft:bowl",
+      "data": 1
+    }
+  },
+  "result": {
+    "item": "avatarmod:cactus_juice"
+  }
+}
